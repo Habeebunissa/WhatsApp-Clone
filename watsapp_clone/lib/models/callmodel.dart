@@ -11,7 +11,7 @@ List<calls> callData = [
       name: "Junaid",
       time: "10 April, 6:03 pm",
       imageUrl:
-          "https://image.shutterstock.com/image-illustration/avatars-metaverse-online-store-empty-260nw-2156559097.jpg "),
+          "https://image.shutterstock.com/image-illustration/product-avatars-metaverse-empty-shelves-260nw-2183735751.jpg"),
   new calls(
       name: "Habeeb",
       time: "12 May, 9:03 am",

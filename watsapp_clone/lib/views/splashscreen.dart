@@ -13,7 +13,7 @@ class _WhatsappSplashState extends State<WhatsappSplash> {
   @override
   void initState() {
     super.initState();
-    Future.delayed(Duration(seconds: 4), () {
+    Future.delayed(Duration(seconds: 3), () {
       Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (context) => Homepage()));
     });
@@ -37,7 +37,7 @@ class _WhatsappSplashState extends State<WhatsappSplash> {
               color: Colors.white,
               child: Image.asset(
                 'assets/image/splash.jpg',
-                scale: 2.0,
+                // scale: 2.0,
               ),
             ),
             SizedBox(height: 100),
